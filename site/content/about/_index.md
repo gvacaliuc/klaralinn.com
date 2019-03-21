@@ -1,6 +1,5 @@
-+++
-title = "about the author"
-image = "/img/gabe-and-klara.jpg"
-+++
+---
+title: about the author
+image: /img/klara-houston.jpg
+---
 
-Klara is the coolest cat in town for sure!!!!
