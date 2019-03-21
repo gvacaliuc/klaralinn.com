@@ -17,7 +17,7 @@ canonifyURLs = true
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "klaralinn.com"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "/post/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -97,8 +97,8 @@ canonifyURLs = true
   weight = 2
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Posts"
+  url = "/post/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 

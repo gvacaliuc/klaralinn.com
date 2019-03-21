@@ -1,6 +1,6 @@
 +++
 title = "about the author"
-date = "2014-04-09"
+image = "/img/gabe-and-klara.jpg"
 +++
 
 Klara is the coolest cat in town for sure!!!!
