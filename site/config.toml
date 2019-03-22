@@ -12,8 +12,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  # Sets the meta tag description
-  description          = "a bad ass bitch's blog"
+  description          = "what's up bitches"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "klaralinn.com"
   # Sets where "View More Posts" links
@@ -63,21 +62,6 @@ canonifyURLs = true
   customJS             = ["default"]
   disable_highlight = true # set to true to disable Highlight
 
-[params.intro]
-  header    = "Klara Linn"
-  paragraph = "The coolest cat in town!"
-  about     = "Klara Linn is in her third year @ the University of Tennesse at Chattanooga, studying Human Resources and Business Marketing."
-
-  # This appears at the top of the sidebar above params.intro.header.
-  # A width of less than 100px is recommended from a design perspective.
-  [params.intro.pic]
-    src       = "/img/gabe-and-klara.jpg"
-    # Sets Image to be a cirlce
-    circle    = false
-    # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
-    alt       = "Klara Linn"
-
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
     sidebar = 5
@@ -102,23 +86,11 @@ canonifyURLs = true
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-#[[menu.main]]
-  #name = "Itemized"
-  #url = "/itemized/"
-  #identifier = "fa fa-list"
-  #weight = 4
-
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 5
-
-#[[menu.main]]
-  #name = "Contact"
-  #url = "/contact/"
-  #identifier = "fa fa-envelope-o"
-  #weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -127,6 +99,5 @@ canonifyURLs = true
   facebook         = "klara.linn"
   instagram        = "klaraklinn"
   twitter          = "klaralinn"
-  #snapchat         = "klaralinn_"
   pinterest        = "klaralinn"
   email = "klara.linn2@gmail.com"

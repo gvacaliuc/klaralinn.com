@@ -3,10 +3,9 @@ author = "Klara Linn"
 categories = ["random"]
 date = "2019-01-19"
 description = "A test posting."
-featured = "gabe-and-klara.jpg"
-featuredalt = "My boyfriend and I."
-featuredpath = "date"
-linktitle = "???"
+featured = "giraffe.jpg"
+featuredalt = "foo"
+featuredpath = "img"
 title = "My first posting!"
 type = "post"
 
