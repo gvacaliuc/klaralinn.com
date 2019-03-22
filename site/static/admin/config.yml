@@ -42,9 +42,16 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "Description", name: "paragraph", widget: "string"}
                   - {label: "About", name: "about", widget: "string"}
                   - name: "pic"
-                    label: "Home Page Picture"
+                    label: "Home Page Image"
                     widget: "list"
                     fields:
                       - { label: "Image", name: "image", widget: "image", required: true }
                       - { label: "Circle Image", name: "circle", widget: "hidden", default: true }
-                      - { label: "Image Size", name: "width", widget: "number", default: 120 }
+                      - label: "Image Size"
+                        name: "width"
+                        widget: "number"
+                        default: 120
+                        valueType: "int"
+                        min: 100
+                        max: 160
+                        step: 10
