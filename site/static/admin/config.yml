@@ -45,7 +45,7 @@ collections: # A list of collections the CMS should be able to edit
                     label: "Home Page Image"
                     widget: "object"
                     fields:
-                      - { label: "Image", name: "image", widget: "image", required: true }
+                      - { label: "Image", name: "src", widget: "image", required: true }
                       - { label: "Circle Image", name: "circle", widget: "hidden", default: true }
                       - label: "Image Size"
                         name: "width"

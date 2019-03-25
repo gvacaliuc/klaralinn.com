@@ -7,7 +7,7 @@ paragraph = "Keep it easy breezy, I’m a hoot and a half "
 
 [params.intro.pic]
 circle = true
-image = "/img/klara-houston.jpg"
+src = "/img/klara-houston.jpg"
 width = 120
 
 [social]
