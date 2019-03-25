@@ -1,14 +1,14 @@
-[params.intro]
-  header    = "Klara Linn"
-  paragraph = "The coolest cat in town!"
-  about     = "Klara Linn is in her third year @ the University of Tennesse at Chattanooga, studying Human Resources and Business Marketing."
+[params]
 
-  # This appears at the top of the sidebar above params.intro.header.
-  # A width of less than 100px is recommended from a design perspective.
-  [params.intro.pic]
-    src       = "/img/klara-houston.jpg"
-    circle    = true
-    width     = 120
+[params.intro]
+about = "Klara Linn is in her third year @ the University of Tennesse at Chattanooga, studying Human Resources and Business Marketing."
+header = "Klara Linn"
+paragraph = "The coolest cat in chatt town!"
+
+[params.intro.pic]
+circle = true
+image = "/img/klara-houston.jpg"
+width = 100
 
 [social]
   facebook         = "klara.linn"

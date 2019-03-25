@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "About", name: "about", widget: "string"}
                   - name: "pic"
                     label: "Home Page Image"
-                    widget: "list"
+                    widget: "object"
                     fields:
                       - { label: "Image", name: "image", widget: "image", required: true }
                       - { label: "Circle Image", name: "circle", widget: "hidden", default: true }
@@ -55,3 +55,12 @@ collections: # A list of collections the CMS should be able to edit
                         min: 100
                         max: 160
                         step: 10
+          - name: "social"
+            label: "Social Information"
+            widget: "object"
+            fields:
+              - {label: "Facebook", name: "facebook", widget: "string"}
+              - {label: "Instagram", name: "instagram", widget: "string"}
+              - {label: "Twitter", name: "twitter", widget: "string"}
+              - {label: "Pinterest", name: "pinterest", widget: "string"}
+              - {label: "Email", name: "email", widget: "string"}
