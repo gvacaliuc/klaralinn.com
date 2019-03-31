@@ -1,21 +1,15 @@
-+++
-author = "Klara Linn"
-categories = ["random"]
-date = "2019-01-19"
-description = "A test posting."
-featured = "giraffe.jpg"
-featuredalt = "foo"
-featuredpath = "img"
-title = "My first posting!"
-type = "post"
-
-+++
-
+---
+title: My first posting!
+date: '2019-01-19'
+description: a test posting
+featured: giraffe.jpg
+categories:
+  - random
+---
 # Hello, World!
 
 This is my first post on my first blog!
 
 ## Big Plans
 
-I have HUUUGE plans for this blog.  I can't wait to share some of my exciting
-experiences with everyone!
+Stay tuned!
