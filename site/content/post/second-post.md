@@ -1,8 +1,8 @@
 ---
 title: Second Post
 date: 2019-03-21T23:07:16.320Z
-description: 'Just making sure that we can post easily. update: we can''t'
-featured: /img/when-your-kid-becomes-a-meme-1024x576-1497986561.jpg
+description: test
+featured: ''
 categories:
   - memes
   - funny
