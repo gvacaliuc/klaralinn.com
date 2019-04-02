@@ -91,13 +91,3 @@ canonifyURLs = true
   url = "/categories/"
   identifier = "fa fa-sitemap"
   weight = 5
-
-# Sets Social Media icons to appear and link to your account. Value should be your
-# username unless otherwise noted. These are the icons affected by socialAppearAtTop
-# and socialAppearAtBottom.
-[social]
-  facebook         = "klara.linn"
-  instagram        = "klaraklinn"
-  twitter          = "klaralinn"
-  pinterest        = "klaralinn"
-  email = "klara.linn2@gmail.com"

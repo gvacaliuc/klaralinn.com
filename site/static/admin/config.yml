@@ -62,5 +62,4 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Facebook", name: "facebook", widget: "string"}
               - {label: "Instagram", name: "instagram", widget: "string"}
               - {label: "Twitter", name: "twitter", widget: "string"}
-              - {label: "Pinterest", name: "pinterest", widget: "string"}
               - {label: "Email", name: "email", widget: "string"}
