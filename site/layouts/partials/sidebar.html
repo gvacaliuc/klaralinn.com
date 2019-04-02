@@ -38,7 +38,7 @@
         <h3>Recent Posts</h3>
       </header>
       <div class="posts-container">
-        {{ $.Scratch.Set "recentPosts" .Site.Pages }}
+        {{ $.Scratch.Set "recentPosts" .Site.RegularPages }}
 
         {{ with .Site.Params.postAmount.sidebar }}
           {{ $.Scratch.Set "postLimit" . }}
@@ -62,7 +62,7 @@
         {{ end }}
       </div>
 
-      {{ if ge (len (where .Site.Pages "Type" "post")) ($.Scratch.Get "postLimit") }}
+      {{ if ge (len (where .Site.RegularPages "Type" "post")) ($.Scratch.Get "postLimit") }}
         <a href=
           {{ with .Site.Params.viewMorePostLink }}
             {{ . }}
