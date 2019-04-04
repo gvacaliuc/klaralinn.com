@@ -1,9 +1,9 @@
 [params]
 
 [params.intro]
-about = "Exciting things coming!"
+about = "this is not a lifestyle blog."
 header = "Klara Linn"
-paragraph = "Keep it easy breezy, I’m a hoot and a half "
+paragraph = "A Collection of My True and Unedited Thoughts "
 
 [params.intro.pic]
 circle = true
