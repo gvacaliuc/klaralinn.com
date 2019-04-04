@@ -1,4 +1,4 @@
 ---
 title: About The Author
 ---
-@klaraklinn
+not a blogger by trade.
