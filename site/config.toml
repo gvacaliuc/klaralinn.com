@@ -4,8 +4,8 @@ title = "klaralinn.com"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
-#disqusShortname = "shortname"
-#googleAnalytics = ""
+disqusShortname = "klaralinn-com"
+googleAnalytics = "UA-138063859-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
