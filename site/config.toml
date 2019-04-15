@@ -12,7 +12,9 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [params]
-  description          = "what's up bitches"
+  description       = "what's up bitches"
+  images            = ["img/klara-houston.jpg"]
+  title             = "not a lifestyle blog"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "klaralinn.com"
   # Sets where "View More Posts" links
