@@ -4,7 +4,7 @@ title: >-
   BLOOD SUGARS
 date: 2020-02-20T22:21:57.295Z
 description: I thought maybe this could help
-featured: img/IMG_2014.HEIC
+featured: ''
 categories:
   - diabetes
 ---
