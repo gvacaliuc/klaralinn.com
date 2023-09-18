@@ -1,4 +1,4 @@
 ---
-title: 'this is me '
+title: coming soon.
 ---
-not a blogger by trade, artist, type one diabetic, and tiktok superstar
+@﻿klarastinypaintings
